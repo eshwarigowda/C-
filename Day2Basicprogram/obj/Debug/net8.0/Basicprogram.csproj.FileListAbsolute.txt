@@ -1,0 +1,14 @@
+D:\VHYPOTENUSE\Csharp\Basicprogram\bin\Debug\net8.0\Basicprogram.exe
+D:\VHYPOTENUSE\Csharp\Basicprogram\bin\Debug\net8.0\Basicprogram.deps.json
+D:\VHYPOTENUSE\Csharp\Basicprogram\bin\Debug\net8.0\Basicprogram.runtimeconfig.json
+D:\VHYPOTENUSE\Csharp\Basicprogram\bin\Debug\net8.0\Basicprogram.dll
+D:\VHYPOTENUSE\Csharp\Basicprogram\bin\Debug\net8.0\Basicprogram.pdb
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\Basicprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\Basicprogram.AssemblyInfoInputs.cache
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\Basicprogram.AssemblyInfo.cs
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\Basicprogram.csproj.CoreCompileInputs.cache
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\Basicprogram.dll
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\refint\Basicprogram.dll
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\Basicprogram.pdb
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\Basicprogram.genruntimeconfig.cache
+D:\VHYPOTENUSE\Csharp\Basicprogram\obj\Debug\net8.0\ref\Basicprogram.dll
