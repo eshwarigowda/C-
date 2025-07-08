@@ -1,0 +1,15 @@
+D:\VHYPOTENUSE\Csharp\class&object\bin\Debug\net8.0\class&object.exe
+D:\VHYPOTENUSE\Csharp\class&object\bin\Debug\net8.0\class&object.deps.json
+D:\VHYPOTENUSE\Csharp\class&object\bin\Debug\net8.0\class&object.runtimeconfig.json
+D:\VHYPOTENUSE\Csharp\class&object\bin\Debug\net8.0\class&object.dll
+D:\VHYPOTENUSE\Csharp\class&object\bin\Debug\net8.0\class&object.pdb
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\class&object.GeneratedMSBuildEditorConfig.editorconfig
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\class&object.AssemblyInfoInputs.cache
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\class&object.AssemblyInfo.cs
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\class&object.csproj.CoreCompileInputs.cache
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\class&object.sourcelink.json
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\class&object.dll
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\refint\class&object.dll
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\class&object.pdb
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\class&object.genruntimeconfig.cache
+D:\VHYPOTENUSE\Csharp\class&object\obj\Debug\net8.0\ref\class&object.dll

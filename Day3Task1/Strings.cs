@@ -22,7 +22,7 @@ public class Strings
         Console.WriteLine(lastname);
         Console.WriteLine(name);
         //String Interpolation
-        Console.WriteLine($"My full name is{fname} {lname}");
+        Console.WriteLine($"Full name is:{fname} {lname}");
 
         //Access String
         Console.WriteLine(greet[2]);

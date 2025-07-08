@@ -1,0 +1,15 @@
+D:\VHYPOTENUSE\Csharp\MethodandObjects\bin\Debug\net8.0\MethodandObjects.exe
+D:\VHYPOTENUSE\Csharp\MethodandObjects\bin\Debug\net8.0\MethodandObjects.deps.json
+D:\VHYPOTENUSE\Csharp\MethodandObjects\bin\Debug\net8.0\MethodandObjects.runtimeconfig.json
+D:\VHYPOTENUSE\Csharp\MethodandObjects\bin\Debug\net8.0\MethodandObjects.dll
+D:\VHYPOTENUSE\Csharp\MethodandObjects\bin\Debug\net8.0\MethodandObjects.pdb
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\MethodandObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\MethodandObjects.AssemblyInfoInputs.cache
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\MethodandObjects.AssemblyInfo.cs
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\MethodandObjects.csproj.CoreCompileInputs.cache
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\MethodandObjects.sourcelink.json
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\MethodandObjects.dll
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\refint\MethodandObjects.dll
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\MethodandObjects.pdb
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\MethodandObjects.genruntimeconfig.cache
+D:\VHYPOTENUSE\Csharp\MethodandObjects\obj\Debug\net8.0\ref\MethodandObjects.dll
